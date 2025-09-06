@@ -1,0 +1,67 @@
+Quest Parker is located in Raleigh, NC. His phone number is (919) 943-6486. His email is questonp123@gmail.com. His GitHub profile is www.github.com/QuestonP. His LinkedIn profile is https://www.linkedin.com/in/questonparker/.
+
+Quest Parker is a versatile data and software professional with experience spanning AI solutions, backend development, and data analytics. He has proven ability to design and deploy impactful applications from machine learning models and data pipelines to production-ready APIs across industries including healthcare, supply chain, and legal. Quest Parker is skilled in Python, SQL, and cloud technologies, with a track record of driving measurable business outcomes such as cost savings, workflow automation, and improved system performance.
+
+Quest Parker has programming language skills in Python and SQL. Quest Parker has framework and library skills in PyTorch, SciKit Learn, Tableau, LangChain, and REST APIs. Quest Parker has additional technical skills in LLMs, Machine Learning, Data Visualization, Data Modeling, Natural Language Processing, Statistical Analysis, Software Engineering Principles, Supply Chain Analytics, Process Mining, Project Management, Communication, Stakeholder Management, and Software Demoing. Quest Parker has public speaking experience and conference presentation skills.
+
+Quest Parker currently works at CELONIS in Raleigh, NC as an AI Solutions Engineer and Solutions Consultant with the title Value Engineer and Applied AI Champion. This is a full-time position that started in June 2024 and continues to the present.
+
+At CELONIS, Quest Parker led the development of the foundational analytics framework for a major retail prescription distributor, leveraging Python, SQL, and Celonis to analyze high-volume prescription data and identify process inefficiencies. This work drove targeted fulfillment improvements and enabled multimillion-dollar value capture. Quest Parker managed cross-functional stakeholders and projects from discovery to solution delivery.
+
+At CELONIS, Quest Parker led Celonis AI Labs and hackathons, which are national events bringing together enterprise clients to develop AI-driven solutions using process data. Quest Parker guided teams in prototyping real-world use cases and presenting insights to peers, with a focus on driving production and adoption.
+
+At CELONIS, Quest Parker developed and deployed an LLM-powered application using GPT-4o, OCR through Docling, and prompt engineering to automate analysis of customer Master Service Agreements and Order Forms. This significantly reduced manual review for the Celonis legal team.
+
+At CELONIS, Quest Parker developed and deployed a string clustering model based on S-BERT and utilizing ChromaDB. This model analyzed 2 million purchase orders across two procurement branches, identifying millions of dollars in duplicate orders for a leading American automotive company.
+
+At CELONIS, Quest Parker implemented a fuzzy matching algorithm to detect and resolve approximately $200,000 in duplicate invoice payments. This enhanced financial accuracy and operational efficiency in a client proof of value.
+
+At CELONIS, Quest Parker implemented an execution application for a chemical supplier that streamlined product manager workflows. This application identified approximately $150,000 in preventable low and negative-margin orders, and $900,000 in historical negative-margin orders.
+
+At CELONIS, Quest Parker directly supported the realization of over $200 million in value, including $10 million in P&L and $190 million in FCF for a leading pharmaceutical distributor. Quest Parker leveraged Celonis to identify and resolve inefficiencies in the organization's prescription fulfillment and pharmacy accounts receivable processes.
+
+At CELONIS, Quest Parker owned the end-to-end Celonis sales cycle, designing high-impact proofs of concept and value to demonstrate business outcomes. This ultimately drove software sales, adoption, and significant customer impact.
+
+Quest Parker worked at ALLPEOPLE MARKETPLACE remotely as a Data Analyst during an internship from January 2024 to June 2024.
+
+At ALLPEOPLE MARKETPLACE, Quest Parker applied SQL queries and Python scripts to clean and preprocess raw consumer data. This ensured data integrity for analysis of supply chain logistics and trends, identifying over $20,000 of inefficiencies in order management.
+
+At ALLPEOPLE MARKETPLACE, Quest Parker developed and validated a clustering model to identify products frequently purchased together. This enabled targeted marketing strategies that drove measurable sales growth across 17 key SKUs.
+
+Quest Parker worked at WILLOWTREE TELUS INTERNATIONAL in Durham, NC as a Software Engineer and Backend Engineer during an internship from May 2023 to August 2023.
+
+At WILLOWTREE TELUS INTERNATIONAL, Quest Parker created, modified, and debugged REST API endpoints using NestJS, TypeScript, AWS Lambda, AWS EC2, and AWS S3 for the United States' first high-speed rail company's mobile and web applications.
+
+At WILLOWTREE TELUS INTERNATIONAL, Quest Parker developed detailed engineering plans alongside senior engineers and client teams designing various infrastructure projects. Each project resulted in improved speed, security, and efficiency in client backend applications.
+
+At WILLOWTREE TELUS INTERNATIONAL, Quest Parker automated project flows for CI/CD pipelines and unit testing processes using YAML scripts and GitHub Actions along with AWS services like Lambda, EC2, DynamoDB, and S3.
+
+At WILLOWTREE TELUS INTERNATIONAL, Quest Parker contributed to the successful launch of a production-grade mobile application for the United States' first high-speed rail company. Quest Parker assisted with backend integration using NestJS and AWS, supported CI/CD workflows, and monitored app performance post-release, ensuring stability across iOS and Android platforms.
+
+Quest Parker worked at FOUNDATION FOR HUMAN INTERNET, also known as HUMAN ID, remotely as a Software Engineer and Full Stack Engineer in a part-time capacity from December 2022 to July 2023.
+
+At FOUNDATION FOR HUMAN INTERNET, Quest Parker revamped the company's developer console page using JavaScript, React.js, and Node.js. This enhanced user experience and functionality, which drove a 20% increase in web traffic and improved developer engagement.
+
+At FOUNDATION FOR HUMAN INTERNET, Quest Parker developed a Discord bot using Python, Flask, and Discord API to automate company-wide and channel-specific notifications. This increased the broader team's visibility into key company milestones and announcements.
+
+At FOUNDATION FOR HUMAN INTERNET, Quest Parker mentored and onboarded junior software engineers by conducting regular office hours, providing hands-on guidance, and fostering a collaborative learning environment to accelerate their integration and productivity within the team.
+
+Quest Parker earned a Bachelor of Arts in Computer Science specializing in Natural Language Processing from the University of North Carolina at Chapel Hill in Chapel Hill, NC. The degree has been earned.
+
+Quest Parker has experience working with technologies including NestJS, TypeScript, JavaScript, React.js, Node.js, Python, SQL, Flask, AWS Lambda, AWS EC2, AWS S3, AWS DynamoDB, YAML scripts, GitHub Actions, GPT-4o, OCR, Docling, S-BERT, ChromaDB, PyTorch, SciKit Learn, Tableau, LangChain, REST APIs, CI/CD pipelines, unit testing processes, and Discord API.
+
+Quest Parker has experience working with mobile applications including iOS and Android platforms. Quest Parker has experience with backend integration and monitoring app performance post-release. Quest Parker has experience with production-grade mobile applications.
+
+Quest Parker has experience with AI and machine learning including LLMs, Large Language Models, Machine Learning, Natural Language Processing, Statistical Analysis, string clustering models, fuzzy matching algorithms, clustering models, and prompt engineering.
+
+Quest Parker has experience with data analytics including data visualization, data modeling, supply chain analytics, process mining, analyzing high-volume prescription data, cleaning and preprocessing raw consumer data, ensuring data integrity, and analyzing supply chain logistics and trends.
+
+Quest Parker has business and project management experience including project management, communication, stakeholder management, software demoing, managing cross-functional stakeholders, designing proofs of concept, driving software sales and adoption, and owning end-to-end sales cycles.
+
+Quest Parker has achieved quantifiable business results including supporting over $200 million in total value realization with $10 million in P&L and $190 million in FCF. Quest Parker identified millions of dollars in duplicate orders for an American automotive company. Quest Parker detected and resolved approximately $200,000 in duplicate invoice payments. Quest Parker identified approximately $150,000 in preventable low and negative-margin orders. Quest Parker discovered $900,000 in historical negative-margin orders. Quest Parker identified over $20,000 of inefficiencies in order management. Quest Parker achieved 20% increase in web traffic through UI improvements. Quest Parker analyzed 2 million purchase orders across two procurement branches. Quest Parker drove measurable sales growth across 17 key SKUs through targeted marketing strategies.
+
+Quest Parker has worked with multiple types of companies including major retail prescription distributors, leading American automotive companies, chemical suppliers, leading pharmaceutical distributors, e-commerce marketplaces, high-speed rail companies, identity technology companies, and enterprise clients.
+
+Quest Parker has worked across multiple industries including healthcare, pharmaceutical distribution, retail prescription distribution, automotive manufacturing, chemical supply, legal services, transportation, high-speed rail, e-commerce, marketplace analytics, supply chain logistics, process mining, and identity technology.
+
+Quest Parker has experience with specific applications including LLM-powered document analysis applications, string clustering models for procurement analysis, fuzzy matching algorithms for financial reconciliation, clustering models for product purchase pattern analysis, execution applications for workflow optimization, Discord bots for automated notifications, developer console pages, and mobile applications for transportation companies.
